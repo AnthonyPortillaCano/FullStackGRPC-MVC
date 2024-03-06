@@ -1,0 +1,17 @@
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.deps.json
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.runtimeconfig.json
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.dll
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.csproj.AssemblyReference.cache
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.AssemblyInfo.cs
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.dll
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\refint\CleanArchitecture.Infraestructure.Data.dll
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.genruntimeconfig.cache
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infraestructure.Data.dll
+D:\FullStackGRPC_MVC\Backend_Grpc\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArc.28E16A36.Up2Date

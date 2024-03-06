@@ -1,0 +1,29 @@
+﻿@model MVC_CLIENT.Product
+
+@Html.AntiForgeryToken()
+​
+<form asp-action="Edit" method="post"> 
+   <input type="hidden" asp-for="@Model.Id"/>
+​
+<table class="table table-striped" >
+    <tr>
+        <td>Name</td>
+        <td>Type</td>
+        <td>Price</td>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" asp-for="@Model.ProductName" />
+        </td>
+          <td>
+            <input type="text" asp-for="@Model.ProductType" />
+        </td>
+         <td>
+            <input type="text" asp-for="@Model.Price" />
+        </td>
+    </tr>
+</table>
+    <button type="submit" class="btn btn-primary">Update</button>
+​
+</form>
+<a asp-action="Index">Back to list</a>
